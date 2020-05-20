@@ -22,7 +22,22 @@ Start the application by running:
 ```bash
 python ./include/video.py
 ```
-press q to quit
+press q to quit  
+
+### Facial Recognition
+Start the application by running and look at yourself from the camera feed for about 30 seconds and press q to quit: 
+```bash
+python ./include/train.py
+```
+Create a classifier by running: 
+```bash
+python ./include/classify.py
+```
+Identify yourself by running: 
+```bash
+python ./include/identify.py
+```
+
 #### Example
  ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
 
