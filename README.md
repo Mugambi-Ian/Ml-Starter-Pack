@@ -22,6 +22,7 @@ Start the application by running:
 ```bash
 python ./include/video.py
 ```
+press q to quit
 #### Example
  ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
 
