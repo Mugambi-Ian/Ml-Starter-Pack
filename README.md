@@ -11,10 +11,20 @@ Using openCv to create a python app that uses machine learning to draw rectangle
 ```bash
 pip install opencv-python
 ```
-4. Start the application by running: 
+### Static image test
+Start the application by running: 
 ```bash
 python ./include/face.py
 ```
-
-### Example
+#### Example
  ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
+
+### Default camera stream
+Start the application by running: 
+```bash
+python ./include/video.py
+```
+#### Example
+ ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/video.png)
+
+
