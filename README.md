@@ -25,7 +25,7 @@ python ./include/video.py
 press q to quit  
 
 ### Facial Recognition
-Start the application by running and look at yourself from the camera feed for about 30 seconds and press q to quit: 
+Start the application by running the command below and look at yourself from the camera feed for about 30 seconds and press q to quit: 
 ```bash
 python ./include/train.py
 ```
