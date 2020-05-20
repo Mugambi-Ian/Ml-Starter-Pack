@@ -17,3 +17,4 @@ python ./include/face.py
 ```
 
 ### Example
+ ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
