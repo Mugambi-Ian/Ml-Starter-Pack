@@ -16,8 +16,6 @@ Start the application by running:
 ```bash
 python ./include/face.py
 ```
-#### Example
- ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
 
 ### Default camera stream
 Start the application by running: 
@@ -25,6 +23,6 @@ Start the application by running:
 python ./include/video.py
 ```
 #### Example
- ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/video.png)
+ ![Image](https://github.com/Mugambi-Ian/learn-python/blob/master/_media/ai.png)
 
 
