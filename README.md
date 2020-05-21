@@ -1,5 +1,5 @@
-# Learn-python
-Using openCv to create a python app that uses machine learning to draw rectangles on human faces.  
+# Ml-Starter-Pack
+Using openCv to dev a python app that uses machine learning to draw rectangles on and remember human faces.  
 
 ### Getting-Started
 1. Clone the repo above and open the folder in a bash script.  
